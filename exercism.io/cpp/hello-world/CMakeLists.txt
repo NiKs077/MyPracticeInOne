@@ -25,7 +25,7 @@ else()
     # Build executable from sources and headers
     add_executable(${exercise} ${file}_test.cpp ${exercise_cpp} ${file}.h test/tests-main.cpp)
 endif()
-
+czvxvzcvzcbcxbbxvbxvbxb
 set_target_properties(${exercise} PROPERTIES
     CXX_STANDARD 14
     CXX_STANDARD_REQUIRED OFF
